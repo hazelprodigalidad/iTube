@@ -1,4 +1,4 @@
-# mytube
+# iTube
 
 ## Project setup
 ```
