@@ -1,4 +1,9 @@
 # iTube
+A web application that can store and play videos that  can be used on Vlogging and Video tutorials.
+-Vue.js
+-Node.js
+-CouchDB (for database)
+
 
 ## Project setup
 ```
